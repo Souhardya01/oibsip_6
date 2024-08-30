@@ -32,10 +32,8 @@ In this project, the goal is to predict the quality of wine based on its chemica
 
 ## Data
 
-- **House Price Dataset**: Contains data on house prices along with features such as location, size, and amenities.
 - **Wine Quality Dataset**: Includes chemical properties of different wines and their corresponding quality ratings.
-- **Sales Data**: Contains historical sales data including product, time, location, and revenue details.
-
+- 
 Datasets can be found in the `data/` directory.
 
 ## Installation
